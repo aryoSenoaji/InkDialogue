@@ -9,7 +9,6 @@
 [RequireComponent(typeof(Rigidbody2D))]
 public class CharacterController2D : MonoBehaviour
 {
-
     [Header("Movement Params")]
     public float runSpeed = 6.0f;
     public float jumpSpeed = 8.0f;
